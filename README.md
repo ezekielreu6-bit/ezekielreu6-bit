@@ -1,18 +1,18 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hey,%20I'm%20Ezekiel%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20of%20PROFYL%20·%20Developer%20·%20Lagos,%20Nigeria%20🇳🇬&descSize=16&descAlignY=60" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Ezekiel%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20%26%20CEO%20of%20PROFYL%20·%20Developer%20·%20Lagos,%20Nigeria%20🇳🇬&amp;descSize=16&amp;descAlignY=60" alt="Header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=I+build+SaaS+products+end+to+end;From+first+commit+to+billing+%26+deployment;Internet-first.+Hands-on+in+the+codebase.;Shipping+fast.+Iterating+on+real+logs.)](https://github.com/ezekielreu6-bit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=I+build+SaaS+products+end+to+end;From+first+commit+to+billing+%26+deployment;Internet-first.+Hands-on+in+the+codebase.;Shipping+fast.+Iterating+on+real+logs.)](https://github.com/ezekielreu6-bit)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ezekiel.voryn.xyz-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://ezekiel.voryn.xyz)
-[![Profyl](https://img.shields.io/badge/Profyl-getprofyl.cv-0f172a?style=for-the-badge&logo=linktree&logoColor=white)](https://getprofyl.cv/ezekielreu6)
-[![npm](https://img.shields.io/badge/npm-@ezekielreu6-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~ezekielreu6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ezekiel.voryn.xyz-6366f1?style=for-the-badge&amp;logo=safari&amp;logoColor=white)](https://ezekiel.voryn.xyz)
+[![Profyl](https://img.shields.io/badge/Profyl-getprofyl.cv-0f172a?style=for-the-badge&amp;logo=linktree&amp;logoColor=white)](https://getprofyl.cv/ezekielreu6)
+[![npm](https://img.shields.io/badge/npm-@ezekielreu6-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white)](https://www.npmjs.com/~ezekielreu6)
 
-![Profile views](https://komarev.com/ghpvc/?username=ezekielreu6-bit&label=Profile%20views&color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ezekielreu6-bit?style=flat-square&color=6366f1&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=ezekielreu6-bit&amp;label=Profile%20views&amp;color=6366f1&amp;style=flat-square)
+![Followers](https://img.shields.io/github/followers/ezekielreu6-bit?style=flat-square&amp;color=6366f1&amp;label=Followers)
 
 </div>
 
@@ -24,7 +24,7 @@ I build SaaS products end to end, from the first commit to billing, security and
 
 | | |
 |---|---|
-| 🏢 **Role** | Founder & CEO of PROFYL |
+| 🏢 **Role** | Founder &amp; CEO of PROFYL |
 | 📍 **Location** | Lagos, Nigeria 🇳🇬 |
 | ⚡ **Focus** | SaaS · Developer tools · Creator tools |
 | 🌐 **Style** | Internet-first, ships fast |
@@ -98,7 +98,7 @@ npx @ezekielreu6/firemigrate --help
 ```
 
 [![npm](https://img.shields.io/badge/📦_npm-firemigrate-CB3837?style=for-the-badge)](https://www.npmjs.com/package/@ezekielreu6/firemigrate)
-[![GitHub](https://img.shields.io/badge/🔗_GitHub-firemigrate-181717?style=for-the-badge&logo=github)](https://github.com/ezekielreu6-bit/firemigrate)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-firemigrate-181717?style=for-the-badge&amp;logo=github)](https://github.com/ezekielreu6-bit/firemigrate)
 
 ---
 
@@ -106,22 +106,22 @@ npx @ezekielreu6/firemigrate --help
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&amp;logo=pnpm&amp;logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white)
 
 </div>
 
 | Layer | Tools |
 |---|---|
 | 🧱 **Core** | Next.js · TypeScript · Firebase/Firestore · Vercel · pnpm |
-| ☁️ **Infra & services** | Cloudflare R2 + Turnstile · Bachs (billing) · SendByte Africa (email) · Express APIs · Neon Postgres |
+| ☁️ **Infra &amp; services** | Cloudflare R2 + Turnstile · Bachs (billing) · SendByte Africa (email) · Express APIs · Neon Postgres |
 | 🧩 **Also** | Kotlin/Jetpack Compose (Android) · MCP servers · OAuth 2.1 with PKCE |
 
 ---
@@ -130,10 +130,10 @@ npx @ezekielreu6/firemigrate --help
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ezekielreu6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielreu6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ezekielreu6-bit&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielreu6-bit&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a" alt="Top languages" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielreu6-bit&theme=tokyonight&hide_border=true&background=0f172a" alt="Streak" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielreu6-bit&amp;theme=tokyonight&amp;hide_border=true&amp;background=0f172a" alt="Streak" />
 
 </div>
 
@@ -155,8 +155,8 @@ npx @ezekielreu6/firemigrate --help
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge)](https://ezekiel.voryn.xyz)
 [![Profyl](https://img.shields.io/badge/🔗_Profyl-0f172a?style=for-the-badge)](https://getprofyl.cv/ezekielreu6)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ezekielreu6-bit)
-[![npm](https://img.shields.io/badge/📦_npm-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~ezekielreu6)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/ezekielreu6-bit)
+[![npm](https://img.shields.io/badge/📦_npm-CB3837?style=for-the-badge&amp;logo=npm)](https://www.npmjs.com/~ezekielreu6)
 
 <br/>
 
@@ -164,4 +164,4 @@ npx @ezekielreu6/firemigrate --help
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0f172a&amp;height=120&amp;section=footer" alt="Footer" />
