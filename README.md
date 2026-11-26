@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Ezekiel%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20and%20CEO%20of%20PROFYL%20·%20Developer%20·%20Lagos,%20Nigeria%20🇳🇬&amp;descSize=16&amp;descAlignY=60" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Hey%20I%20am%20Ezekiel&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=50&amp;v=2" alt="Header" />
 
 <div align="center">
 
