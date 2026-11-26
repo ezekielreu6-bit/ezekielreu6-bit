@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Ezekiel%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20%26%20CEO%20of%20PROFYL%20·%20Developer%20·%20Lagos,%20Nigeria%20🇳🇬&amp;descSize=16&amp;descAlignY=60" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Ezekiel%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20and%20CEO%20of%20PROFYL%20·%20Developer%20·%20Lagos,%20Nigeria%20🇳🇬&amp;descSize=16&amp;descAlignY=60" alt="Header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=I+build+SaaS+products+end+to+end;From+first+commit+to+billing+%26+deployment;Internet-first.+Hands-on+in+the+codebase.;Shipping+fast.+Iterating+on+real+logs.)](https://github.com/ezekielreu6-bit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=I+build+SaaS+products+end+to+end;From+first+commit+to+billing+and+deployment;Internet-first.+Hands-on+in+the+codebase.;Shipping+fast.+Iterating+on+real+logs.)](https://github.com/ezekielreu6-bit)
 
 <br/>
 
